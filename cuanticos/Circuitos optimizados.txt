@@ -1,0 +1,46 @@
+Thapliyal: 
+
+	T-c : 12 --> T-c : 8
+	T-d : 8  --> T-d : 3
+
+
+Seyyed: Half Sub/Add(2021-2022)
+
+	1-bit
+
+	T-c : 18 --> T-c : 8
+	T-d : 12  --> T-d : 3
+
+Hilal: Full Sub/Add (2023)
+
+	1-bit
+
+	1. 
+		T-c : 12 --> T-c : 8
+		T-d : 8  --> T-d : 3
+
+	1-bit
+
+	2. 
+		T-c : 18 --> T-c : 8
+		T-d : 12  --> T-d : 3
+
+Yuan: Sub
+	
+	1-bit 
+
+	T-c : 14 --> T-c: 8
+	T-d : 6	 --> T-d : 3
+
+	3-bit
+
+	T-c : 35 --> T-c: 20
+	T-d : 15 --> T-d : 6
+
+Singh: Full add/sub (2023)
+
+	1-bit
+
+	T-c: 14 --> T-c: 8
+	T-d: 6  --> T-d: 3
+
